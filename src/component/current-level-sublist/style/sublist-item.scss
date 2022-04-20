@@ -1,0 +1,34 @@
+.c-sublist-item {
+    background: rgba(41, 68, 42, 0.39);
+
+    &_body {
+        height: 6.875rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &_button {
+        cursor: pointer;
+        background: url('~@/assets/img/cur-level-sublist-button.png');
+        background-size: 100% 100%;
+        width: 6.5625rem;
+        line-height: 2.083333rem;
+        font-size: .9375rem;
+        font-weight: 800;
+        text-shadow: 0px 0px 10px rgba(250, 211, 49, 0.8);
+        text-align: center;
+    }
+
+    &_footer {
+        padding: 0 .625rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: 2.291667rem;
+        border-top: .208333rem solid #67BD7A;
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+        font-size: .729167rem;
+    }
+
+}

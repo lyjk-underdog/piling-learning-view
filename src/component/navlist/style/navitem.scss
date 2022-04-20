@@ -1,0 +1,15 @@
+.c-navitem {
+    cursor: pointer;
+
+    &_body {
+        height: 12.1354rem;
+        background: rgba(41, 68, 42, 0.39);
+        border: 0.1563rem solid #62C977;
+    }
+
+    &_title {
+        font-size: 32px;
+        line-height: 5.2083rem;
+        text-align: center;
+    }
+}

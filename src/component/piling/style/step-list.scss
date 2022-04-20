@@ -1,0 +1,19 @@
+.c-step-list {
+    background: rgba(16, 31, 25, 0.8);
+    padding: 1.5625rem 1.354167rem;
+
+    &_body {
+        padding: 1.302083rem 1.5625rem;
+        background: linear-gradient(
+            87deg,
+            rgba(37, 74, 59, 0.6) 0%,
+            rgba(59, 117, 94, 0.6) 54%,
+            rgba(35, 70, 56, 0.6) 100%
+        );
+    }
+
+    .l-step-item {
+        display: inline-block;
+        margin-right: 4.166667rem;
+    }
+}

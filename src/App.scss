@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'MFLiHei';
+    src: url('./assets/font/MFLiHei.otf');
+}
+
+html , body {
+    margin: 0;
+    padding: 0;
+    color:white;
+    font-family: 'MFLiHei';
+}
+
+html {
+    font-size: 1vw;
+    
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: rgba(15, 8, 6, 1);
+}
+
+body::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
+
+.scroll-style::-webkit-scrollbar {
+    height: .625rem;
+    width: .625rem;
+}
+.scroll-style::-webkit-scrollbar-thumb {
+    background-color: #FA7D31;
+}
+
+.c-mask-layer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+
+
