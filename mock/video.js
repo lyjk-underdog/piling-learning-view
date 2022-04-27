@@ -1,0 +1,24 @@
+module.exports = [
+    {
+        url:'/video/list',
+        method:'get',
+        tpl:{
+            code:200,
+            message:'ok',
+            data:[
+                {
+                    id:0,
+                    title:'测试标题1',
+                    cover:'https://static.stheadline.com/stheadline/news_res/2015/02/13/5253/i_640x427_151321851.jpg',
+                    videoSrc:'https://media.w3.org/2010/05/sintel/trailer.mp4'
+                },
+                {
+                    id:1,
+                    title:'测试标题2',
+                    cover:'https://i.ytimg.com/vi/BF06BuJrhs4/hqdefault.jpg',
+                    videoSrc:'http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4'
+                }
+            ]
+        }
+    }
+]

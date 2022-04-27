@@ -12,13 +12,13 @@ html , body {
 
 html {
     font-size: 1vw;
-    
 }
 
 body {
     width: 100vw;
     height: 100vh;
-    background: rgba(15, 8, 6, 1);
+    background: url("~@/assets/img/app-bac.svg");
+    background-size: 100%;
 }
 
 body::-webkit-scrollbar {
@@ -36,12 +36,30 @@ body::-webkit-scrollbar {
 
 .c-mask-layer {
     position: fixed;
+    z-index: 1000;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
     background: rgba(0, 0, 0, 0.5);
 }
+
+/*列表加载动画*/
+
+.t-list-item--active {
+    animation: t-list-item--active 0.8s;
+    animation-fill-mode: forwards;
+    transform: translateY(80px);
+    opacity: 0;
+    /*'animation-delay':index / 10 + 's'*/
+  }
+
+  @keyframes t-list-item--active {
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
 
 
 

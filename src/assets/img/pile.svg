@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="302.164" height="494.552" viewBox="0 0 302.164 494.552">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #67bd7a;
+      }
+
+      .cls-1 {
+        opacity: 0.046;
+      }
+
+      .cls-2 {
+        opacity: 0.334;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-13);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.921" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#67bd7a"/>
+      <stop offset="1" stop-color="#67bd7a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="0.883" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7bdeff"/>
+      <stop offset="1" stop-color="#4a43a5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.5" x2="0.5" y2="0.883" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa7d31"/>
+      <stop offset="1" stop-color="#4a43a5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0.5" x2="0.5" y2="0.883" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c24752"/>
+      <stop offset="1" stop-color="#4a43a5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" x1="0.5" y1="1" x2="0.5" y2="0.117" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c390ff"/>
+      <stop offset="1" stop-color="#4a43a5" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="组_17" data-name="组 17" transform="translate(-815.197 -214)">
+    <g id="组_16" data-name="组 16" transform="translate(815.197 645.477)">
+      <ellipse id="椭圆_21" data-name="椭圆 21" class="cls-1" cx="150.765" cy="16.795" rx="150.765" ry="16.795" transform="translate(0.316)"/>
+      <path id="联合_3" data-name="联合 3" class="cls-2" d="M0,29.3H0V0C0,1.146,1.033,2.291,3.069,3.4a41.317,41.317,0,0,0,8.8,3.17c3.786,1,8.473,1.966,13.929,2.868,5.4.894,11.612,1.735,18.449,2.5S58.61,13.4,66.61,14c8.075.61,16.71,1.134,25.663,1.557,18.627.881,38.412,1.327,58.808,1.327s40.183-.446,58.809-1.327c8.953-.423,17.588-.947,25.663-1.557,8-.6,15.525-1.3,22.36-2.062s13.044-1.605,18.448-2.5c5.457-.9,10.144-1.868,13.93-2.868a41.3,41.3,0,0,0,8.8-3.17c2.036-1.113,3.068-2.258,3.068-3.4V29.3h0c0,9.327-67.642,16.889-151.081,16.889S0,38.624,0,29.3Z" transform="translate(0 16.889)"/>
+    </g>
+    <g id="组_4999" data-name="组 4999">
+      <rect id="矩形_49" data-name="矩形 49" class="cls-3" width="129.344" height="494.552" rx="64.672" transform="translate(901.556 214)"/>
+      <rect id="矩形_1989" data-name="矩形 1989" class="cls-3" width="91.377" height="494.552" rx="45.689" transform="translate(921.237 214)"/>
+      <rect id="矩形_1990" data-name="矩形 1990" class="cls-3" width="55.298" height="494.552" rx="27.649" transform="translate(938.629 214)"/>
+    </g>
+    <g id="组_5000" data-name="组 5000">
+      <rect id="矩形_20" data-name="矩形 20" class="cls-4" width="55.298" height="159.968" rx="27.649" transform="translate(1105.883 361.114) rotate(90)"/>
+      <rect id="矩形_1991" data-name="矩形 1991" class="cls-4" width="42.584" height="159.968" rx="21.292" transform="translate(1105.883 367.471) rotate(90)"/>
+      <rect id="矩形_1992" data-name="矩形 1992" class="cls-4" width="25.765" height="159.968" rx="12.882" transform="translate(1105.883 376.247) rotate(90)"/>
+    </g>
+    <g id="组_5003" data-name="组 5003">
+      <rect id="矩形_50" data-name="矩形 50" class="cls-5" width="55.298" height="176.359" rx="27.649" transform="translate(938.629 500.924)"/>
+      <rect id="矩形_1997" data-name="矩形 1997" class="cls-5" width="41.298" height="176.359" rx="20.649" transform="translate(945.63 500.924)"/>
+      <rect id="矩形_1998" data-name="矩形 1998" class="cls-5" width="26.798" height="176.359" rx="13.399" transform="translate(952.88 500.924)"/>
+    </g>
+    <g id="组_5001" data-name="组 5001">
+      <rect id="矩形_21" data-name="矩形 21" class="cls-6" width="52.168" height="182.755" rx="26.084" transform="translate(829.859 360.07) rotate(-90)"/>
+      <rect id="矩形_1993" data-name="矩形 1993" class="cls-6" width="41.168" height="182.755" rx="20.584" transform="translate(829.859 354.57) rotate(-90)"/>
+      <rect id="矩形_1994" data-name="矩形 1994" class="cls-6" width="26.633" height="182.755" rx="13.316" transform="translate(829.859 347.303) rotate(-90)"/>
+    </g>
+    <g id="组_5002" data-name="组 5002">
+      <rect id="矩形_22" data-name="矩形 22" class="cls-7" width="52.168" height="154.845" rx="26.084" transform="translate(984.705 416.412) rotate(90)"/>
+      <rect id="矩形_1995" data-name="矩形 1995" class="cls-7" width="39.318" height="154.845" rx="19.659" transform="translate(984.705 422.837) rotate(90)"/>
+      <rect id="矩形_1996" data-name="矩形 1996" class="cls-7" width="23.42" height="154.845" rx="11.71" transform="translate(984.705 430.786) rotate(90)"/>
+    </g>
+  </g>
+</svg>
