@@ -68,7 +68,7 @@ module.exports = [
                     三掌：正掌，横掌，昂掌．或曰直掌（心－包括正掌，横掌，昂掌），杀掌（阴掌沿），摌掌（阳掌沿）
                     三脚：（三身法）：出自寻桥之（正身）撑脚，（侧身）撑脚及（反身）撑脚
                     三步：正（箭）步，横步，圈步`,
-                    videoSrc: '',
+                    videoSrc: '/videos/trailer.mp4',
                     steps: [
                         {
                             stepindex: 1,

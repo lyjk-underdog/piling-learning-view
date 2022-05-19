@@ -58,7 +58,7 @@ let actions = {
         try {
             commit('reset_state');
             const levelInfo = await levelApi.getInfo(levelId);
-            
+
             commit('set_levelInfo', levelInfo);
             commit('set_curSteps', levelInfo.steps);
             commit('set_status', 'ready');

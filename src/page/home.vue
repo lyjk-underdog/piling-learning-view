@@ -38,12 +38,14 @@ export default Vue.extend({
         {
           name: "观看视频",
           route: {
-            name: "VideoPage",
+            name: "VideoCategoryPage",
           },
         },
         {
           name: "排行榜",
-          route: "",
+          route: {
+            name: "RankingPage"
+          },
         },
       ],
     };

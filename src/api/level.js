@@ -5,17 +5,28 @@ const getList = () => service({
     method: 'GET'
 })
 
-const getInfo = (levelId) => service({
-    url: '/campusstu/level/info/' + levelId,
-    method: 'GET'
-})
+const getInfo = async (levelId) => {
+    try {
+        let info = await service({
+            url: '/campusstu/level/info/' + levelId,
+            method: 'GET'
+        });
+
+        return {
+            ...info,
+            videoSrc: process.env.VUE_APP_UPLOAD_URL + info.videoSrc
+        }
+    } catch (e) {
+        throw e;
+    }
+}
 
 const updateList = ({ levelId, score }) => service({
     url: '/campusstu/level/list/' + levelId,
     method: 'PUT',
     data: {
         score,
-        pass:true
+        pass: true
     }
 })
 

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="335.927" height="40" viewBox="0 0 335.927 40">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.6;
+      }
+
+      .cls-2 {
+        opacity: 0.698;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: #67bd7a;
+      }
+
+      .cls-5 {
+        fill: #edab35;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-size: 20px;
+        font-family: MFLiHei_Noncommercial-Regular, 'MF LiHei \(Noncommercial\)';
+        letter-spacing: 0.2em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.946" y1="0.5" x2="0.946" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#061f2f"/>
+      <stop offset="1" stop-color="#67bd7a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#67bd7a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#67bd7a"/>
+    </linearGradient>
+  </defs>
+  <g id="组_4947" data-name="组 4947" transform="translate(-103.036 0.6)">
+    <g id="组_4666" data-name="组 4666" transform="translate(103.036 -0.6)">
+      <g id="组_21" data-name="组 21" class="cls-1" transform="translate(0 0.337)">
+        <path id="矩形_46" data-name="矩形 46" class="cls-2" d="M660,0H995.927L964.086,37.415H691.841Z" transform="translate(-660)"/>
+      </g>
+      <path id="联合_1" data-name="联合 1" class="cls-3" d="M31.317,38.875a.46.46,0,0,1-.148-.024.2.2,0,0,1-.064-.027.461.461,0,0,1-.219-.248L.113.826A.669.669,0,0,1,.057.183c.094-.2.271-.243.4-.09L31.32,37.957H302.81a.462.462,0,0,1,.074.006L333.756.093c.124-.153.3-.113.4.09a.666.666,0,0,1-.056.644L303.169,38.763a.207.207,0,0,1-.211.088.46.46,0,0,1-.149.025Z" transform="translate(0.759 0)"/>
+      <rect id="矩形_1887" data-name="矩形 1887" class="cls-4" width="73.396" height="3.372" transform="translate(132.959 36.628)"/>
+      <g id="组_4664" data-name="组 4664" transform="translate(296.406 28.875)">
+        <path id="路径_28880" data-name="路径 28880" class="cls-5" d="M0,0,1.843.538,5.362,10.579l-1.843-.538Z" transform="matrix(-0.602, -0.799, 0.799, -0.602, 7.466, 10.649)"/>
+        <path id="路径_28743" data-name="路径 28743" class="cls-5" d="M.017,0H2.265V7.39L0,7.461Z" transform="translate(0 10.667) rotate(-90)"/>
+      </g>
+      <g id="组_4665" data-name="组 4665" transform="translate(23.423 28.875)">
+        <path id="路径_28881" data-name="路径 28881" class="cls-5" d="M3.519.538,5.362,0,1.843,10.042,0,10.58Z" transform="matrix(0.602, -0.799, 0.799, 0.602, 0, 4.283)"/>
+        <path id="路径_28743-2" data-name="路径 28743" class="cls-5" d="M.017,7.461H2.265V.072L0,0Z" transform="translate(8.454 10.667) rotate(-90)"/>
+      </g>
+    </g>
+    <text id="登录" class="cls-6" transform="translate(249 27.4)"><tspan x="0" y="0">登录</tspan></text>
+  </g>
+</svg>

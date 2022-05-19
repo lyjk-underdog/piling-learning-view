@@ -5,13 +5,8 @@ Vue.use(VueRouter);
 
 let routes = [
     {
-        name: 'LoginPage',
-        path: '/login',
-        component: () => import('@/page/login.vue')
-    },
-    {
         path: '/',
-        component: () => import('@/page/main.vue'),
+        component: () => import('@/layout/index.vue'),
         redirect: {
             name: 'HomePage'
         },
@@ -29,12 +24,27 @@ let routes = [
             {
                 name: 'VideoPage',
                 path: 'video',
-                component: () => import('@/page/video.vue')
+                component: () => import('@/page/video/list.vue')
+            },
+            {
+                name: 'VideoCategoryPage',
+                path: 'video-category',
+                component: () => import('@/page/video/category.vue')
             },
             {
                 name: 'PilingGamePage',
                 path: 'piling-game/:levelId',
                 component: () => import('@/page/piling-game/index.vue')
+            },
+            {
+                name: 'LoginPage',
+                path: '/login',
+                component: () => import('@/page/login.vue')
+            },
+            {
+                name: 'RankingPage',
+                path: '/ranking',
+                component: () => import('@/page/ranking.vue')
             }
         ]
     }

@@ -1,14 +1,16 @@
 const Mock = require('mockjs');
 const levelMocks = require('./level');
 const videoMocks = require('./video');
+const rankingMocks = require('./ranking');
 
 Mock.setup({
     timeout:'200'
 })
 
 const mocks = [
-    ...levelMocks,
-    ...videoMocks
+    // ...levelMocks,
+    // ...videoMocks,
+    ...rankingMocks
 ];
 
 

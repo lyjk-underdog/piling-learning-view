@@ -355,6 +355,7 @@ export default {
     cursor: pointer;
     width: 2.604167rem;
     position: absolute;
+    z-index: 2;
     right: 1.09375rem;
     bottom: 1.40625rem;
   }

@@ -3,7 +3,7 @@ module.exports = [
         url:'/video/list',
         method:'get',
         tpl:{
-            code:200,
+            httpCode:200,
             message:'ok',
             data:[
                 {
